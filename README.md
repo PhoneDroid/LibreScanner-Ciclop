@@ -22,13 +22,15 @@ Please read the LICENSE file for more details.
 
  * `svg`: Ciclop SVG files. This folder contains all drawings for 2D printing
 
- * `freecad`: Ciclop source files in [FreeCAD](http://www.freecadweb.org/). This is a work in progress. All the original files are being migrated to Freecad (see below)
+ * `freecad`: Ciclop source files in [FreeCAD]. This is a work in progress. All the original files are being migrated to Freecad (see below)
 
  * `Ciclop-BOM.ods`: Ciclop Bill of Materials. Document for [LibreOffice](https://www.libreoffice.org/)
 
 ![][ciclop-parts]
 
-**Please note**: The original Ciclop design was made in Autodesk Inventor(tm) which is proprietary software. Since we love open formats we are migrating the Ciclop parts to [FreeCAD](http://www.freecadweb.org/), which is a multiplatform open source CAD software. We invite people from the community to join us and help us to complete the task.
+**Please note**: The original Ciclop design was made in Autodesk Inventor(tm) which is proprietary software. Since we love open formats we are migrating the Ciclop parts to [FreeCAD], which is a multiplatform open source CAD software. We invite people from the community to join us and help us to complete the task.
 
-[ciclop]: doc/images/ciclop.jpg
 [ciclop-parts]: doc/images/ciclop-parts.jpg
+[ciclop]: doc/images/ciclop.jpg
+
+[FreeCAD]: https://freecad.org
